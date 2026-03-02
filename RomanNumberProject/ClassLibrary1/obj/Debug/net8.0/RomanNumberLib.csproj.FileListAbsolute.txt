@@ -1,0 +1,11 @@
+D:\RomanNumberProject\ClassLibrary1\bin\Debug\net8.0\RomanNumberLib.deps.json
+D:\RomanNumberProject\ClassLibrary1\bin\Debug\net8.0\RomanNumberLib.dll
+D:\RomanNumberProject\ClassLibrary1\bin\Debug\net8.0\RomanNumberLib.pdb
+D:\RomanNumberProject\ClassLibrary1\obj\Debug\net8.0\RomanNumberLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\RomanNumberProject\ClassLibrary1\obj\Debug\net8.0\RomanNumberLib.AssemblyInfoInputs.cache
+D:\RomanNumberProject\ClassLibrary1\obj\Debug\net8.0\RomanNumberLib.AssemblyInfo.cs
+D:\RomanNumberProject\ClassLibrary1\obj\Debug\net8.0\RomanNumberLib.csproj.CoreCompileInputs.cache
+D:\RomanNumberProject\ClassLibrary1\obj\Debug\net8.0\RomanNumberLib.dll
+D:\RomanNumberProject\ClassLibrary1\obj\Debug\net8.0\refint\RomanNumberLib.dll
+D:\RomanNumberProject\ClassLibrary1\obj\Debug\net8.0\RomanNumberLib.pdb
+D:\RomanNumberProject\ClassLibrary1\obj\Debug\net8.0\ref\RomanNumberLib.dll
